@@ -1,14 +1,7 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/brendasutara.png" />
-   <h3 align="center">¡Hey 👋! Soy Brenda 👨🏻‍💻</h3>
-</p>
+<h2>Hola, soy Brenda! 👨🏻‍💻</h2>
+<p>Mi pasión está en transformar ideas en experiencias digitales cautivadoras. 💻✨ Con una base en arquitectura y un entusiasmo recién descubierto por el desarrollo frontend, me aventuro a crear soluciones web que combinen funcionalidad y diseño.</p>
 
-<h2>Hi, I'm Brenda!</h2>
-<p>I am a recently graduated Software Enginnering student from the <a href="https://www.iit.edu/">Illinois institute of Technology</a> in Chicago, Illinois. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C#, C++ and Rust. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
-</em></p>
-
-[![GitHub Brenda](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
-[![Twitter Brenda](https://img.shields.io/twitter/follow/gregcodesstuff?label=Follow)](https://twitter.com/gregcodesstuff)
+[![GitHub Brenda](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/brendasutara)
 
 <!--
 **brendasutara/brendasutara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
