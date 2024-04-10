@@ -6,7 +6,6 @@
 ## Portfolio
 
 Mira algunos de mis trabajos más importantes y mi experiencia [Netlify](https://portfolio-brenda-sutara.netlify.app/).
-![Captura de Pantalla](https://i.imgur.com/qTU2KJH.jpeg)
 
 <!--
 **brendasutara/brendasutara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
