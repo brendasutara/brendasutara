@@ -1,7 +1,12 @@
 <h2>Hola, soy Brenda! 👨🏻‍💻</h2>
-<p>Mi pasión está en transformar ideas en experiencias digitales cautivadoras. 💻✨ Con una base en arquitectura y un entusiasmo recién descubierto por el desarrollo frontend, me aventuro a crear soluciones web que combinen funcionalidad y diseño.</p>
+<p>Entusiasta en crecimiento, especializándome en el desarrollo frontend mientras actualmente desempeño funciones como desarrolladora UX/UI. Colaboro en un equipo dinámico de programadores donde diseño arquitecturas de información, workflows y wireframes que maximizan la funcionalidad. Me dedico a establecer sistemas de diseño sólidos y a proponer futuras etapas en estrecha colaboración con el cliente. Mi compromiso principal radica en garantizar experiencias de usuario excepcionales en Angular, asegurando una integración perfecta entre diseño y desarrollo.</p>
 
-[![GitHub Brenda](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/brendasutara)
+[![GitHub Brenda](https://img.shields.io/github/followers/brendasutara?label=follow&style=social)](https://github.com/brendasutara)
+
+## Portfolio
+
+Mira algunos de mis trabajos más importantes y mi experiencia [Netlify](https://portfolio-brenda-sutara.netlify.app/).
+![Captura de Pantalla](https://i.imgur.com/qTU2KJH.jpeg)
 
 <!--
 **brendasutara/brendasutara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
