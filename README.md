@@ -3,7 +3,8 @@
 
 [![GitHub Brenda](https://img.shields.io/github/followers/brendasutara?label=follow&style=social)](https://github.com/brendasutara)
 
-## [Portfolio] (https://portfolio-brenda-sutara.netlify.app/)
+## Portfolio
+Este portfolio está desplegado en [Netlify](https://portfolio-brenda-sutara.netlify.app/).
 
 <!--
 **brendasutara/brendasutara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
