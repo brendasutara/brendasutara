@@ -1,6 +1,6 @@
-<h2 align="center">¡Hola! Soy Brenda 👋</h2>
+<h2 >¡Hola! Soy Brenda 👋</h2>
 
-<p align="center">
+<p>
 Desarrolladora frontend y de aplicaciones, con base sólida en diseño UX/UI y experiencia técnica en <strong>React</strong>, <strong>React Native (CLI y Expo)</strong> y <strong>Flutter</strong>. <br />
 Mi enfoque es integral: combino diseño, desarrollo y estrategia para crear experiencias digitales funcionales y con propósito.
 </p>
@@ -14,7 +14,7 @@ Mi enfoque es integral: combino diseño, desarrollo y estrategia para crear expe
 - 🔁 Vengo del mundo de la arquitectura y el diseño, y encontré en la programación un nuevo medio para **crear y resolver**.
 - 🤝 Me interesa colaborar en proyectos que prioricen la experiencia del usuario.
 
----
+
 
 ### 🛠 Tecnologías y herramientas
 
@@ -25,7 +25,7 @@ Mi enfoque es integral: combino diseño, desarrollo y estrategia para crear expe
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 
----
+
 
 ### 📁 Portfolio
 
