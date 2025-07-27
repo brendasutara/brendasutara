@@ -38,10 +38,7 @@ También podés ver algunos proyectos destacados en mis repos públicos.
 ### 📫 Contacto
 
 - 💌 sutarabrenda@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/brendasutara/)  
-- 💻 [GitHub](https://github.com/brendasutara)  
-
-[![GitHub Brenda](https://img.shields.io/github/followers/brendasutara?label=follow&style=social)](https://github.com/brendasutara)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brendasutara/) 
 
 ---
 
@@ -49,11 +46,4 @@ También podés ver algunos proyectos destacados en mis repos públicos.
 
 - 🧪 Profundizando en Flutter y buenas prácticas de arquitectura en apps móviles
 - 🧠 Mejora continua en inglés técnico y soft skills para equipos distribuidos
-
----
-
-<!-- opcional -->
-### ⚡ Stats (opcional)
-
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendasutara&show_icons=true&theme=radical)
 
